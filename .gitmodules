@@ -1,0 +1,6 @@
+[submodule "frontend-funWorkout"]
+	path = frontend-funWorkout
+	url = https://github.com/sabby97/frontend-funWorkout
+[submodule "backend-funWorkout"]
+	path = backend-funWorkout
+	url = https://github.com/sabby97/backend-funWorkout
